@@ -27,11 +27,19 @@ if you want to resume training from a mlagent check point in the result folder
 
 # Result of using ppo network
 
-before ppo training:
+before rl-algorithms training:
 
-![image](./Demo/1.gif)
+![image](./Demo/old.gif)
 
 after ppo training:
 
+![image](./Demo/1.gif)
+
 ![image](./Demo/2.gif)
+
+----------------------
+
+after dqn training:
+
+Tobe continued...
 
