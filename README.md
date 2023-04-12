@@ -22,6 +22,16 @@ make sure the pretrain model is in the nn module for body, then play
 if you want to play around with training, use the command below:
 !mlagents-learn C:\Users\xxx\OneDrive\Desktop\FootstepAgents\Config\MyBehavior.yaml --run-id=MyBehavior --force
 
+if you want to resume training from a mlagent check point in the result folder
+!mlagents-learn C:\Users\xxx\OneDrive\Desktop\FootstepAgents\Config\MyBehavior.yaml --run-id=MyBehavior --resume
+
 # Result of using ppo network
 
+before ppo training:
+
+![image](./Demo/1.gif)
+
+after ppo training:
+
+![image](./Demo/2.gif)
 
