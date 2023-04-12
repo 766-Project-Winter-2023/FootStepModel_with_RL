@@ -37,6 +37,10 @@ after ppo training:
 
 ![image](./Demo/2.gif)
 
+the training curve:
+
+![image](./Demo/loss.png)
+
 ----------------------
 
 after dqn training:
