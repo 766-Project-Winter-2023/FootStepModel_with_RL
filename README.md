@@ -1,4 +1,4 @@
-# Footstep_Planning_with_Reinforcement_Learning
+# FootStepModel_with_RL
 footstep_planning program in Unity with different steering algorithms.
 
 Pengxiang Jia, Yide Ma
