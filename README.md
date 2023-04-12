@@ -43,3 +43,7 @@ after dqn training:
 
 Tobe continued...
 
+# Viewing the results
+!tensorboard --logdir results --port 6006
+#then open http://localhost:6006/
+
