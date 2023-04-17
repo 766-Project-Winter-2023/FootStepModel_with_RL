@@ -30,7 +30,6 @@ if you want to play around with training, use the command below:
 if you want to resume training from a mlagent check point in the result folder
 !mlagents-learn C:\Users\xxx\OneDrive\Desktop\FootStepModel_with_RL\Config\MyBehavior.yaml --run-id=MyBehavior --resume
 
-# Result of using ppo network
 
 before rl-algorithms training:
 
@@ -44,6 +43,10 @@ after ppo training:
 the training curve:
 
 ![image](./Demo/loss.png)
+
+# Viewing the results
+!tensorboard --logdir results --port 6006
+#then open http://localhost:6006/
 
 ----------------------
 
@@ -71,8 +74,5 @@ the training curve:
 
 To be continued...
 
-# Viewing the results
-!tensorboard --logdir results --port 6006
-#then open http://localhost:6006/
 
 
