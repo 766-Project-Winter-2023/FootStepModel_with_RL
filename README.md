@@ -23,7 +23,7 @@ We have utilize different rl algorithm to train the footstep model.
 #ml-agent version in unity editor i used is 2.0
 
 # Running
-The pretrained model is already set to each agent.
+The pretrained model is already set to each agent. 
 
 # Training
 if you want to play around with training, use the command below:
@@ -47,6 +47,7 @@ the training curve:
 ![image](./Demo/loss.png)
 
 # Viewing the results
+#if you want to visual, the mlagent training folder contains .pt and .onxx is in the demo folder, with name "MyBehavior".
 !tensorboard --logdir results --port 6006
 #then open http://localhost:6006/
 
