@@ -47,9 +47,29 @@ the training curve:
 
 ----------------------
 
-after dqn training:
+# Comparison with A* algo:
 
-Tobe continued...
+<p align="center">
+  <img src="./Demo/top/1.png" />
+</p>
+
+<p align="center">
+  <img src="./Demo/top/2.png" />
+</p>
+
+<p align="center">
+  <img src="./Demo/top/3.png" />
+</p>
+
+<p align="center">
+  <img src="./Demo/firstperson/1.png" />
+</p>
+
+<p align="center">
+  <img src="./Demo/firstperson/2.png" />
+</p>
+
+To be continued...
 
 # Viewing the results
 !tensorboard --logdir results --port 6006
