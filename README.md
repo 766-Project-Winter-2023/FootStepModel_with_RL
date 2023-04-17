@@ -1,5 +1,8 @@
-<p align="center">
 # FootStepModel_with_RL
+
+<p align="center">
+  <img src="./Demo/footstep.gif" />
+</p>
 
 Realistic footstep:
 
@@ -57,4 +60,3 @@ Tobe continued...
 #then open http://localhost:6006/
 
 
-</p>
