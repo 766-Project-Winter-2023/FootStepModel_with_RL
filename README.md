@@ -1,3 +1,4 @@
+<p align="center">
 # FootStepModel_with_RL
 
 Realistic footstep:
@@ -55,3 +56,5 @@ Tobe continued...
 !tensorboard --logdir results --port 6006
 #then open http://localhost:6006/
 
+
+</p>
