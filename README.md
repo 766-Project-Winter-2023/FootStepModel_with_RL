@@ -1,4 +1,4 @@
-# FootStepModel_with_RL
+<center># FootStepModel_with_RL</center>
 
 <p align="center">
   <img src="./Demo/footstep.gif" />
