@@ -1,10 +1,10 @@
-# FootStepModel_with_RL creating realistic footsteps
+# FootStepModel_with_RL
 
 <p align="center">
   <img src="./Demo/footstep.gif" />
 </p>
 
-footstep_planning program in Unity with different steering algorithms.
+footstep model with rl can be used to creating realistic footsteps.
 
 Pengxiang Jia, Yide Ma
 
