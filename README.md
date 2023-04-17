@@ -19,7 +19,7 @@ We have utilize different rl algorithm to train the footstep model.
 !pip install mlagent==0.30.0
 #also install cuda and pytorch in your environments
 #i used cuda 11.6 and pytorch 1.12.1
-#unity version we use: 2019.4.29f1
+#unity version we use: 2021.3.16f1
 #ml-agent version in unity editor i used is 2.0
 
 # Running
