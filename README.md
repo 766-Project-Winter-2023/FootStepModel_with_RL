@@ -3,7 +3,9 @@
 <p align="center">
   <img src="./Demo/footstep.gif" />
 </p>
+
 ## When open it, if show normalmap settings warning, please click ignore.
+
 footstep model with rl can be used to creating realistic footsteps.
 
 Pengxiang Jia, Yide Ma
