@@ -27,6 +27,10 @@ if you want to resume training from a mlagent check point in the result folder
 
 # Result of using ppo network
 
+Realistic footstep:
+
+![image](./Demo/footstep.gif)
+
 before rl-algorithms training:
 
 ![image](./Demo/old.gif)
