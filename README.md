@@ -6,7 +6,7 @@
 
 ## When open it, if show normalmap settings warning, please click ignore.
 
-footstep model with rl can be used to creating realistic footsteps.
+## We implemented footstep model with rl to creating realistic footsteps.
 
 Pengxiang Jia, Yide Ma
 
