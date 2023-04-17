@@ -39,7 +39,7 @@ before rl-algorithms training:
 
 after ppo training:
 
-![image](./Demo/1.gif)
+![image](./Demo/result.gif)
 
 
 the training curve:
