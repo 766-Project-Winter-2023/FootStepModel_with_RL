@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./Demo/footstep.gif" />
 </p>
-
+## When open it, if show normalmap settings warning, please click ignore.
 footstep model with rl can be used to creating realistic footsteps.
 
 Pengxiang Jia, Yide Ma
@@ -21,7 +21,7 @@ We have utilize different rl algorithm to train the footstep model.
 #ml-agent version in unity editor i used is 2.0
 
 # Running
-make sure the pretrain model is in the nn module for body, then play
+The pretrained model is already set to each agent.
 
 # Training
 if you want to play around with training, use the command below:
