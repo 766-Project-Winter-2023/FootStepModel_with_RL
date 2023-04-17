@@ -1,4 +1,7 @@
 # FootStepModel_with_RL
+Realistic footstep:
+![image](./Demo/footstep.gif)
+
 footstep_planning program in Unity with different steering algorithms.
 
 Pengxiang Jia, Yide Ma
@@ -26,10 +29,6 @@ if you want to resume training from a mlagent check point in the result folder
 !mlagents-learn C:\Users\xxx\OneDrive\Desktop\FootStepModel_with_RL\Config\MyBehavior.yaml --run-id=MyBehavior --resume
 
 # Result of using ppo network
-
-Realistic footstep:
-
-![image](./Demo/footstep.gif)
 
 before rl-algorithms training:
 
