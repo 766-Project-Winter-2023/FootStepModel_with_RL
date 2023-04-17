@@ -1,4 +1,4 @@
-<center># FootStepModel_with_RL</center>
+# FootStepModel_with_RL creating realistic footsteps
 
 <p align="center">
   <img src="./Demo/footstep.gif" />
