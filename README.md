@@ -51,7 +51,7 @@ the training curve:
 !tensorboard --logdir results --port 6006
 #then open http://localhost:6006/
 
-# Running A*
+# Running naive A* algorithm
 if you want to run naive A* algorithm we implemented,  there is a file "AStar.zip/A_star.unitypackage" under Demo folder. Open a new unity project and import it. Import all things. Open assets/AStarWrapper/Scenes, then play. you can left click for representing the agent and right click for the goal. it will produce the path by A* algorithm. 
 
 ![image](./Demo/A_star.png)
