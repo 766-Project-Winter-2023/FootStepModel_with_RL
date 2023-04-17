@@ -35,7 +35,12 @@ after ppo training:
 
 ![image](./Demo/1.gif)
 
-![image](./Demo/2.gif)
+![image](./Demo/top_result/1.png)
+![image](./Demo/top_result/2.png)
+![image](./Demo/top_result/3.png)
+
+![image](./Demo/firstperson/1.png)
+![image](./Demo/firstperson/2.png)
 
 the training curve:
 
