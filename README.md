@@ -1,5 +1,7 @@
 # FootStepModel_with_RL
+
 Realistic footstep:
+
 ![image](./Demo/footstep.gif)
 
 footstep_planning program in Unity with different steering algorithms.
