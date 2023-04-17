@@ -48,30 +48,6 @@ the training curve:
 !tensorboard --logdir results --port 6006
 #then open http://localhost:6006/
 
-----------------------
-
-# Comparison with A* algo:
-
-<p align="center">
-  <img src="./Demo/top/1.png" />
-</p>
-
-<p align="center">
-  <img src="./Demo/top/2.png" />
-</p>
-
-<p align="center">
-  <img src="./Demo/top/3.png" />
-</p>
-
-<p align="center">
-  <img src="./Demo/firstperson/1.png" />
-</p>
-
-<p align="center">
-  <img src="./Demo/firstperson/2.png" />
-</p>
-
 To be continued...
 
 
