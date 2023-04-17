@@ -4,10 +4,6 @@
   <img src="./Demo/footstep.gif" />
 </p>
 
-Realistic footstep:
-
-![image](./Demo/footstep.gif)
-
 footstep_planning program in Unity with different steering algorithms.
 
 Pengxiang Jia, Yide Ma
