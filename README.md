@@ -1,7 +1,7 @@
 # FootStepModel_with_RL
 
 <p align="center">
-  <img src="./Demo/footstep.gif" />
+  <img src="./Demo/demo1.gif" />
 </p>
 
 ## When open it, if show normalmap settings warning, please click ignore.
@@ -39,7 +39,7 @@ before rl-algorithms training:
 
 after ppo training:
 
-![image](./Demo/result.gif)
+![image](./Demo/demo2.gif)
 
 
 the training curve:
