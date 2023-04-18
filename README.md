@@ -15,8 +15,11 @@ We have utilize different rl algorithm to train the footstep model.
 
 # Environments: 
 !conda create -n xxx python=3.9
+
 !conda activate xxx
+
 !pip install mlagent==0.30.0
+
 #also install cuda and pytorch in your environments
 #i used cuda 11.6 and pytorch 1.12.1
 #unity version we use: 2021.3.16f1
