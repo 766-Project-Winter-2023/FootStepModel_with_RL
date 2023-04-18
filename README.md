@@ -1,5 +1,9 @@
 # FootStepModel_with_RL
 
+<p align="center">
+  <img src="./Demo/demo1.gif" />
+</p>
+
 ## When open it, if show normalmap settings warning, please click ignore.
 
 ## We implemented footstep model with rl to creating realistic footsteps.
